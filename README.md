@@ -6,7 +6,7 @@ Discription
 [View the Discription](Discription)
 
 Logic
-[view the logic](codelogic)
+[view the logic](code.logic)
 
 Output
 
