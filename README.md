@@ -6,11 +6,7 @@ Discription
 [View the Discription](Discription)
 
 Logic
-
-1. Initialize two variables, "a = 0" and "b = 1".
-2. Use a "for" loop to print the first 10 numbers.
-3. Calculate the next number using "c = a + b".
-4. Update the variables to generate the next numbers.
+[view the logic](code logic)
 
 Output
 
