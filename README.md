@@ -1,7 +1,8 @@
 # code-project
 Fibbonacci series
 [View Java Code](Fibbonacci.java)
-[discription](/nDiscription)
+
+[discription](Discription)
 
 Description
 
