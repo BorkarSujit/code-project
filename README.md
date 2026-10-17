@@ -1,4 +1,4 @@
-# code-project
+# 1st PROJECT
 Fibbonacci series
 [View Java Code](Fibbonacci.java)
 
@@ -9,9 +9,4 @@ Logic
 [view the logic](code.logic)
 
 Output
-
-"0 1 1 2 3 5 8 13 21 34"
-
-Language
-
-Java
+[view the output](output)
