@@ -1,12 +1,9 @@
 # code-project
 Fibbonacci series
 [View Java Code](Fibbonacci.java)
+
 Discription
-[discription](Discription)
-
-Description
-
-The Fibonacci series is a sequence in which each number is the sum of the previous two numbers.
+[Discription](Discription)
 
 Logic
 
