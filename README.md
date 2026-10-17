@@ -3,7 +3,7 @@ Fibbonacci series
 [View Java Code](Fibbonacci.java)
 
 Discription
-[Discription](Discription)
+[View the Discription](Discription)
 
 Logic
 
