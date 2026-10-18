@@ -1,12 +1,12 @@
 # 1st PROJECT
-Fibbonacci series
+Fibbonacci series:-
 [View Java Code](Fibbonacci.java)
 
-Discription
+Discription:-
 [View the Discription](Discription)
 
-Logic
+Logic:-
 [view the logic](code.logic)
 
-Output
+Output:-
 [view the output](output)
